@@ -1,2 +1,3 @@
-# zivara-store
-"Online store for ZIVARA fashion and perfumes"
+# ZIVARA Online Store
+## Luxury Fashion & Fragrance
+### Tech Stack: Next.js + Medusa.js
